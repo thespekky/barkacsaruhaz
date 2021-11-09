@@ -1,2 +1,3 @@
 # barkacsaruhaz
 README
+contribútorok hozzáadása
