@@ -19,5 +19,17 @@ contribútorok hozzáadása
   | | -> szerszamkatalogus.html
   
   | | -> blog.html
-   
+
+  | | images
+  
+  | | -> bukk.jpg
+
+  | | -> cseresznye.jpg
+
+  | | -> dio.jpg
+
+  | | -> mahagoni.jpg
+
+  | | -> tolgy.jpg
+
     
