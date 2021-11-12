@@ -32,4 +32,7 @@ contribútorok hozzáadása
 
   | | -> tolgy.jpg
 
+  | | js
+
+  | | -> bootstrap.5.1.js
     
