@@ -1,3 +1,6 @@
+body{
+  background-color: wheat;
+}
 ul {
     list-style-type: none;
     margin: 0;
@@ -21,3 +24,25 @@ ul {
   li a:hover {
     background-color: rgb(89, 111, 233);
   }
+
+.osszes{
+  margin-left: 10px ;
+  display: flex;
+  flex-direction:row;
+  flex-wrap: wrap;
+}
+.reszek{
+  width: 200px;
+  display: flex;
+  flex-direction:column;
+  align-items: center;
+  background-color: wheat;
+  border: 0;
+}
+.kepek{
+  width: 150px;
+  height: 150px;
+  border: 2px white solid;
+  border-radius: 50%;
+  align-self: center;
+}
