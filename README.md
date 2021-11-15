@@ -35,4 +35,6 @@ contribútorok hozzáadása
   | | js
 
   | | -> bootstrap.5.1.js
+  
+  | | -> code.js
     
