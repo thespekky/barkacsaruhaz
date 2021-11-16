@@ -32,6 +32,10 @@ contribútorok hozzáadása
 
   | | -> tolgy.jpg
 
+  | | -> andras.png
+
+  | | -> tamas.png
+
   | | js
 
   | | -> bootstrap.5.1.js
