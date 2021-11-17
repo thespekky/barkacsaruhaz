@@ -3,7 +3,7 @@ var adatok=document.getElementsByClassName("adatok");
 var buttonok=document.getElementsByClassName("button");
 for (let i = 0; i < osszes.length; i++) {
     adatok[i].classList.add("d-none");
-    osszes[i].addEventListener('click',()=>{
+    buttonok[i].addEventListener('click',()=>{
         adatok[i].classList.add("d-none");
         switch (buttonok[i].value) {
             case "Bükk":

@@ -26,8 +26,12 @@ ul {
   }
 
 
-.osszestartalom{
-
+.container{
+  margin: 0;
+  padding: 0;
+}
+.container-lg{
+  width: 1000px;
 }
 .osszes{
   margin-left: 10px ;
@@ -35,6 +39,7 @@ ul {
   flex-direction:row;
   flex-wrap: wrap;
 }
+
 .reszek{
   width: 200px;
   display: flex;
