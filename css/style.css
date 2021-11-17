@@ -35,13 +35,10 @@ ul {
 }
 .osszes{
   margin-left: 10px ;
-  display: flex;
-  flex-direction:row;
-  flex-wrap: wrap;
 }
 
 .reszek{
-  width: 200px;
+  width: 25%;
   display: flex;
   flex-direction:column;
   align-items: center;
@@ -55,6 +52,11 @@ ul {
   border-radius: 50%;
   align-self: center;
 }
+/* ezeket kell 100% ra átállítani sm kor és akkor jó lesz
+.col-sm-1{
+  width: 100%;
+}
+*/
 .osszes-rolunk
 {
   width: 90%;
