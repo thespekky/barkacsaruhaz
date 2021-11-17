@@ -36,6 +36,8 @@ contribútorok hozzáadása
 
   | | -> tamas.png
 
+  | | -> vodor.jpg
+
   | | js
 
   | | -> bootstrap.5.1.js
