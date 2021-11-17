@@ -2,7 +2,7 @@
 README
 https://thespekky.github.io/barkacsaruhaz/html/bukk.html
 
-A contribútorok: Bondár Andár és Bondár Tamás
+A contribútorok: Bodnár András és Bodnár Tamás
 
 Ez a git page egy barkácsáruház kíválatait és információit ossza meg.
 # file struktúra
