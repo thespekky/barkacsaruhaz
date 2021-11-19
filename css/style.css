@@ -12,11 +12,13 @@ ul {
 .left {
     float: left;
   }
-  
+.right {
+    float: right;
+  }
   li a {
     display: block;
     color: white;
-    text-align: center;
+    
     padding: 14px 16px;
     text-decoration: none;
   }
@@ -25,10 +27,13 @@ ul {
     background-color: rgb(89, 111, 233);
   }
 
-
+.navbar, .kek{
+  background-color: rgb(13, 75, 133);
+}
 .container{
-  margin: 0;
+  margin: 0 auto;
   padding: 0;
+
 }
 .container-lg{
   width: 1000px;
@@ -36,14 +41,18 @@ ul {
 .osszes{
   margin-left: 10px ;
 }
-
+.kapalacs{
+  width: 50px;
+  height: 50px;
+}
 .reszek{
-  width: 25%;
+  /*width: 25%;*/
   display: flex;
   flex-direction:column;
   align-items: center;
   background-color: wheat;
   border: 0;
+  padding-bottom: 10px;
 }
 .kepek{
   width: 150px;
@@ -52,6 +61,39 @@ ul {
   border-radius: 50%;
   align-self: center;
 }
+
+@media (min-width: 576px) and (max-width:767px)
+{
+  
+  .kepek{
+    width: 300px;
+    height: 300px;
+    border: 2px white solid;
+    border-radius: 50%;
+    align-self: center;
+  }
+  .col-sm-1 {
+    
+    width: 100%;
+  }
+}
+@media (max-width: 576px)
+{
+  
+  .kepek{
+    width: 200px;
+    height: 200px;
+    border: 2px white solid;
+    border-radius: 50%;
+    align-self: center;
+  }
+  .col-sm-1 {
+    
+    width: 100%;
+  }
+}
+
+.osszes-rolunk
 p{
 margin: 0;
 }
