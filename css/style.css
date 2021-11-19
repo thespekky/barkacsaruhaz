@@ -52,12 +52,39 @@ ul {
   border-radius: 50%;
   align-self: center;
 }
+p{
+margin: 0;
+}
+.valasz
+{
+  text-align: center;
+  font-size: 30px;
+}
+.keret{
+  width: 200px; border: 1px solid black;
+  height: 340px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  padding: 0px;
+  padding-top: 2px;
+  margin: 0px;
+  margin-top: 2px;
+  margin-bottom: 3px;
+}
+div.col{
+  margin-left: 0px;
+}
+#vodor
+{
+  width: 80%;
+}
 /* ezeket kell 100% ra átállítani sm kor és akkor jó lesz
 .col-sm-1{
   width: 100%;
 }
 */
-.osszes-rolunk
+.osszes-rolunk,.festekek
 {
   width: 90%;
   background-color:rgba(255, 255, 255, 0.678);
@@ -118,5 +145,10 @@ img.elsokepandras,img.masodikkeptamas
     width: 200px;
     margin: 0 auto;
     padding-left: 50px;
+  }
+  .col
+  {
+    display: flex;
+    justify-content:center;
   }
 }
