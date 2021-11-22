@@ -25,6 +25,8 @@ Ez a git page egy barkácsáruház kínálatait és információit ossza meg.
   | | -> blog.html
 
   | | images
+
+  | | -> barkacs.jpg
   
   | | -> bukk.jpg
 
