@@ -4,7 +4,7 @@ https://thespekky.github.io/barkacsaruhaz/html/bukk.html
 
 A contribútorok: Bodnár András és Bodnár Tamás
 
-Ez a git page egy barkácsáruház kíválatait és információit ossza meg.
+Ez a git page egy barkácsáruház kínálatait és információit ossza meg.
 # file struktúra
 | | css
   
