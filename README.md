@@ -26,6 +26,22 @@ Ez a git page egy barkácsáruház kínálatait és információit ossza meg.
 
   | | images
 
+  | | -> asztalosfureszek.jpg
+
+  | | -> asztalosvesok.jpg
+
+  | | ->faeszergagepek.jpg
+
+  | | ->faeszergakesek.jpg
+
+  | | ->fafaragovesok.jpg
+
+  | | ->faraspolyok.jpg
+
+  | | ->gyaluk.jpg
+
+  | | ->kalapacs.jpg
+
   | | -> adventikep_phar.jpg
 
   | | -> szerszamok.jpg
