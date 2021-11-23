@@ -2,6 +2,7 @@ body{
   background-image: url("../images/fa.jpg");
   background-size: cover;
   background-attachment: fixed;
+  font-family: Arial;
 }
 ul {
     list-style-type: none;
@@ -121,7 +122,7 @@ margin: 0;
 div.col{
   margin-left: 0px;
   height: 400px;
-  border: 1px solid black;
+  border: 1px solid rgb(180, 87, 87);
 }
 #vodor
 {
