@@ -26,6 +26,10 @@ Ez a git page egy barkácsáruház kínálatait és információit ossza meg.
 
   | | images
 
+  | | -> adventikep_phar.jpg
+
+  | | -> szerszamok.jpg
+
   | | -> barkacs.jpg
   
   | | -> bukk.jpg
