@@ -109,15 +109,9 @@ margin: 0;
   font-size: 30px;
 }
 .keret{
-  width: 200px; height: 340px;
   display: flex;
   align-items: center;
   flex-direction: column;
-  padding: 0px;
-  padding-top: 2px;
-  margin: 0px;
-  margin-top: 2px;
-  margin-bottom: 3px;
 }
 div.col{
   margin-left: 0px;
@@ -126,7 +120,7 @@ div.col{
 }
 #vodor
 {
-  width: 80%;
+  width: 60%;
 }
 /* ezeket kell 100% ra átállítani sm kor és akkor jó lesz
 .col-sm-1{
@@ -183,7 +177,7 @@ padding-right: 50px;
 }
 img.elsokepandras,img.masodikkeptamas
 {
-  width: 110%;
+  width: 70%;
   padding:10px;
 }
 @media (max-width: 576px)
@@ -220,4 +214,14 @@ img.elsokepandras,img.masodikkeptamas
 .kozep_szoveg
 {
   text-align: center;
+}
+#blog p,#blog h3
+{
+  padding: 3px;
+  margin-right:4px ;
+  margin-left: 4px;
+}
+#blog hr,#bukk hr{
+  height: 12px;
+  border-radius: 2px;
 }
