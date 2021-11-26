@@ -236,3 +236,9 @@ img.elsokepandras,img.masodikkeptamas
   text-align: center;
   padding-top: 5px;
 }
+#elv{
+  height: 12px;
+}
+.dark{
+  background-color: black;
+}
