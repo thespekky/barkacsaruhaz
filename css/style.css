@@ -225,3 +225,14 @@ img.elsokepandras,img.masodikkeptamas
   height: 12px;
   border-radius: 2px;
 }
+#nevek
+{
+  font-weight: bold;
+  font-style: italic;
+  font-size: 20px;
+}
+#rolunkszov
+{
+  text-align: center;
+  padding-top: 5px;
+}
