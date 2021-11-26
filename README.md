@@ -26,6 +26,10 @@ Ez a git page egy barkácsáruház kínálatait és információit ossza meg.
 
   | | images
 
+  | | -> T.jpg
+
+  | | -> T2.png
+
   | | -> asztalosfureszek.jpg
 
   | | -> asztalosvesok.jpg
@@ -78,4 +82,4 @@ nagyobb mérföld kövek:
 - Festétek css: 2021.11.19
 - Bükk váz,css: 2021.11.22
 - Szerszámkatalógus váz,css:2021.11.23
-- Feladat befejezése:2021.11.24
+- Feladat befejezése:2021.11.26

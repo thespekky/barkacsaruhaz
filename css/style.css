@@ -18,7 +18,7 @@ ul {
 .right {
     float: right;
   }
-  li a {
+  li a#navb {
     display: block;
     color: white;
     
@@ -26,7 +26,7 @@ ul {
     text-decoration: none;
   }
   
-  li a:hover {
+  li a#navb:hover {
     background-color: rgb(89, 111, 233);
   }
 
